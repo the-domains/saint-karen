@@ -6,9 +6,9 @@ color:
   saturation: 0.5607464169152081
   rhythmicContrast: 0.4227676917798817
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Saint Karen
